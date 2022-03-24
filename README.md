@@ -1,8 +1,6 @@
-![](https://github.com/devkeyur/devkeyur/blob/main/Screenshot%202021-09-28%20at%2011.29.17%20PM.png)
-
 <!-- Header -->
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/keyur-malete-aa967a183/" target="_blank"> Keyur Malete </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"></h1>
-<img width="40%" align="right"   src="image.gif" >
+<img width="40%" align="right" src="image.gif" >
 
 <!-- Intro -->
 A bit about Myself, I am <b>Keyur Malete</b> pursuing my <b>Computer Science Degree</b> from Parul University, Currently in my Second-Year of BCA As of now, I am focused on <b>Web Development, App Development, and Designing</b> but still, wish to explore many fields. ⚡
